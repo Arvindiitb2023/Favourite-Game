@@ -63,6 +63,14 @@ main{
     background-color: white;
     color:#000000
 }
+p1{
+    text-align: center;
+    margin-left: 100px;
+    font-size: 30px;
+    background-color: #193d14;
+    padding: 7px;
+    border-radius:10px;
+}
 footer{
     bottom: 0;
     width:100%;
